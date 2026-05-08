@@ -10,6 +10,10 @@ Singh, S., Chaudhary, K., Dhanda, S. K., Bhalla, S., Usmani, S. S., Gautam, A., 
 **SATPdb: a database of structurally annotated therapeutic peptides.** *Nucleic Acids Research*, 44(D1), D1119-D1126. 
 [https://doi.org/10.1093/nar/gkv1114](https://doi.org/10.1093/nar/gkv1114)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20078292
+
+
+
 ## About the Database
 
 SATPdb was developed to fill the gap in existing resources by bringing together therapeutic peptides on a single platform to understand their structure-function relationships. It provides structural annotation for the majority of therapeutic peptides published to date, facilitating rational drug design.
