@@ -2,7 +2,7 @@
 
 Welcome to the official repository and documentation overview for **SATPdb**, a comprehensive database of structurally annotated therapeutic peptides. This resource integrates data from 22 public domain peptide databases and datasets to provide a unified platform for researchers working in the field of peptide-based therapeutics.
 
-**Web Server:** [http://crdd.osdd.net/raghava/satpdb/](http://crdd.osdd.net/raghava/satpdb/)
+**Web Server:** https://webs.iiitd.edu.in/raghava/satpdb/
 
 ## Citation
 
